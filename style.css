@@ -30,7 +30,7 @@ h1{
     color: white;
 
     display: flex;
-   justify-content: center;
+    justify-content: center;
 
 }
 
@@ -66,14 +66,14 @@ li {
 }
 
 .button-wrapper {
-  display: flex;
-  justify-content: center;
+    display: flex;
+    justify-content: center;
 }
 
 button {
-  padding: 20px;
-  border: none;
-  border-radius: 10px
+    padding: 20px;
+    border: none;
+    border-radius: 10px
 }
 
 /* ================= OPCOES ============== */
@@ -105,4 +105,12 @@ button {
     background-position: center;
 }
 
+.espinafre {
+    background-image: url(https://images.unsplash.com/photo-1576045057995-568f588f82fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3BpbmFjaHxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80);
+    background-position: center;
+}
 
+.alcachofra {
+    background-image: url(https://cdn.shopify.com/s/files/1/0522/7105/5007/articles/The_Easiest_Prepare_Of_Artichoke_Bottoms_And_Hearts_Chopping_Guide.jpg?v=1624979613);
+    background-position: center;
+}
